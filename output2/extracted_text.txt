@@ -1,0 +1,2617 @@
+Text from output2\page_1.png========================================================>:
+Uplatz
+
+Menu Edt Eavortes Extras System Heb sasiss/@
+L) *\« Se sh HHHHi15
+SAP Easy Access
+
+[a & | daothermenu | % ta A vy * | Cecreaterole | 2 t
+
+{SSA Menu
+
+» i Francaal Services Network Connector
+> Boffce
+» [Bi cross-Applcation Components
+» BB Logistics
+» BB accounting
+» Bi Human Resources
+» BB Utities Industry
+» [Bi Information Systems:
+> Bi Toos
+» Ba webCient UI Framework
+> Be Favorites
+» Barico
+
+Creation of Folders, Transaction codes on sap easy access:
+
+‘SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+IDES ERP
+
+D> Yor (1) 800 ¥ | myecc | OVR a
+
+[© menu Edit (avortes ] Extras System Help _
+
+° aa ones fe DAH AA Ow
+Change Cuteshit+F3
+SAP EasyA wove >
+Tm & | & | ¢__Bekete SARA B create role 2) Ass 7
+
+[SAP Menu] — insert transaction —CtrlsShift+F4
+
+» BaFrancal add other objects _CtrlsShit+F7
+
+Bi office
+Cross-ag Download to PC
+BB Logistics _Upload from PC
+
+» BB Accounting
+
+BB Human Resources
+Utities Industry
+BB Information Systems
+» Ba Took
+» Bi WebCient UI Framework
+* Be Favorites
+
+» BaFico
+SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+SARA D Yo (1) 800 * myecc OVR a
+
+| a | O pre here to search
+
+
+
+Text from output2\page_2.png========================================================>:
+[ Menu Edit Favortes Extras System Help Sur
+
+SAP Easy Access
+
+(aD | & | de othermenu  % We Av =  CBcreaterole | 2 Assia :
+> BB SAP Menu
+
+Financal Services Network Connector
+
+» Booffice
+» [BB Cross-Appiication Components
+
+eae
+
+» BaFico
+
+SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+[SAL
+
+> | You (1) 800 ¥ | myece | OVR cy
+
+| a | O Ire here to search
+
+Hit enter
+Ets En mona Gon Snore rasa
+
+i) *\« Se shR HAHAHA
+
+SAP Easy Access
+Ta & & Bothermenn v6 ve 4 |v & | Cacreaterole | 2) Assen u Docu
+
+* Be SAP Menu
+Financial Services Network Connector
+Boffice
+BB Cross-Application Components
+Bi Logistics
+BB Accounting
+Human Resources
+Ba vtities industry
+information systems
+Bi Tools
+» [BB WebCient UI Framework
+B Favorites
+> BaFico
+
+SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+@ Folder entered in favorites ist D you (1) 800 > myecc OVR
+
+| a | O Type here to search
+
+Folder is created
+
+
+
+Text from output2\page_3.png========================================================>:
+. Create Transaction codes in Folders
+Open the Folder by right clicking on ii
+
+( Menu Edit Favorites
+r) =]« @
+SAP Easy Access
+
+bE|®&
+
+Extras System Help
+
+SHAR HHA 5H 0n8
+
+fa Othermenu | 35 we M | y & | [Bcreaterole — © Assion users
+
+inancial Services Network Connector
+Office
+ross-Applicaton Components
+
+Change Favorites
+Delete Favortes
+Insert Folder
+
+qd Other Objects
+
+| aa | O Jype here to search
+
+Select Insert Transaction
+Insert the required transaction codes
+
+For ex: PA30
+
+(© Menu Edit Favortes Extras System Help
+i) v|« Ge sh HHH 55/08
+SAP Easy Access
+[a © |% | geothermenu | % va A |v = CBcreaterole | o
+
+> Bi office
+
+» [Bi Cross-Appication Components
+
+> DB Logistics
+
+» Bm Accounting
+
+> Bi Human Resources
+
+» Bi Utiities Industry
+
+> Bi Information Systems
+
+> Bi Tools
+
+> Be WebCient UI Framework
+ B Favorites
+
+Brico
+> Be SAP HM Folder
+
+@ Node added to favorites ist
+
+| as | O pe here to search
+
+SAP DEMO SYSTEMS
+‘THE BEST-RUN DEMOS RUN IDES
+
+IDES ERP
+
+> | vou (1) 800 ~
+
+SAP DEMO SYSTEMS
+‘THE BEST-RUN DEMOS RUN IDES
+
+D you (1) 800 ¥
+
+myece | OVR
+
+myecc | OVR
+
+a
+
+
+
+Text from output2\page_4.png========================================================>:
+ORGANISATIONAL MANAGEMENT
+
+Organizational Management
+
+In this step, you make the necessary system settings for the
+implementation of the "Organizational Management" component.
+
+“Organizational Management" forms the base for the Personnel
+Planning and Development area (as well as Organizational
+Management, this includes the Personnel Development, Personnel
+Cost Planning and Training and Event Management components) and
+allows you to analyze and adjust your organizational plan as well as
+maintain structure data.
+
+Enterprise Structure
+
+We will learn how to portray the specific organizational structure of
+business in the R/3 System.
+
+To help you portray your company structure, different Accounting,
+Logistics and Human Resources organization units are provided.
+
+First analyze the structures and procedures in your company, and then
+match them to the SAP structures. There are various organization
+elements defined as examples in the standard version. Normally these
+would not cover all your needs. Extend the elements as required.
+
+During the clarification stage, work with the structures delivered by SAP.
+In order to obtain a high degree of identification and acceptance from
+project members and user departments from the start, you may have to
+change some of SAP's terminology.
+
+Enterprise structure shows the relation between 2 organizational units
+created.
+
+It is the base line for every functional consultant.
+
+
+
+Text from output2\page_5.png========================================================>:
+Configurations for Enterprise structure
+
+Definitions:
+
+1. Define Company
+TE plementation Guce Edt Goto Addtenal formation Utites System Heb apy
+
+o v\<« @ae He AAIOf
+Display IMG
+
+& &] 4 | exctngscsets “ac [Release Notes Change Loa Where Else Used
+
+structure
+
+‘SAP Feld Service (Mobile App)
+
+‘SAP Retai Execution (Mob App)
+
+‘OpenText Business Sute for SAP Solitions
+
+OpenTest Travel Recepts Hanagement
+
+‘OpenText EQULink for SAP Solutions
+
+Retail Workforce Management
+
+‘Activate Business Functions
+
+SAP NetWeaver
+
+Enterprise Structure
+
+(® Localze Sample Organizational Unts
+Definition
+
+[es __Fancal Accounting
+
+[& @ [Define company]
+
+® Define Credt Control Area
+
+Edt, Copy, Delete, Check Company Code
+
+Define Business Area
+
+Define Functional Are
+
+Maintain consoldation bushess area
+
+Maintain FM Area
+
+Define Segment
+
+Define Profit Center
+
+controling
+
+Logists - General
+
+Sales and Distribution
+
+Matera Management
+
+Loaistcs Execution
+
+Pant Maintenance a
+
+Human Resources Management y
+
+| a | O Type hereto search
+Table View Edt Goto Selection Utities System Help Lees
+
+Ee
+©
+
+«oB
+
+«BP 57)
+
+BP RY EP BPE? BP BPE? |
+QHHOHHHHH
+
+‘bbcococes
+DDI -
+
+eae
+
+SARA & yo1 (1) 900 ¥ | myece | OVR a
+
+Lv) y« @aé@ia AAles
+New Entries: Details of Added Entries
+
+vRAB
+
+‘Company
+
+‘Company name
+Name of company 2
+
+{ Detaled information
+Street
+PO Box
+Postal code
+ty
+Country
+Language Key
+Currency
+
+Ey B | Yo1 (1) 800 * | myece | OVR a
+
+| aa | O Joe here to search
+
+Update the required fields enter and save
+
+
+
+Text from output2\page_6.png========================================================>:
+[© Implementation Guide Edit Goto Additional Information _Utilties System Help aby
+
+Display IMG
+] EO existing acsets sya 1 Se Activa [E]Release Notes | Change Log Where Else Used
+Structure
+
+, SAP Field Service (Mobile App) a
+
+Request Customizing request
+Short Description 1
+B Project
+
+owner vena Source clent 500)
+
+status New Target
+
+Last changed 75.01.2021] (12:36:34
+
+Tasks User
+
+\UPINLL
+
+G6 &
+Ws Materse Management el
+
+, Logistics Execution
+> [2 Plant Maintenance
+» [2 Human Resources Management -
+
+| | O Type here to search
+
+Save in Customising request.(TR- Transport Request)
+
+ay Yo1 (1) 800 * | myece | OVR
+
+2. Edit, Copy , delete , check company code
+
+The company code is an organizational unit used in accounting. It is used to structure the business organization from a
+financial accounting perspective.
+
+We recommend that you copy a company code from an existing company code. This has the advantage that you also copy
+the existing company code-specific parameters. If necessary, you can then change certain data in the relevant application.
+This is much less time-consuming than creating a new company code. See "Recommendations" for more details about
+copying a company code.
+
+If you do not wish to copy an existing company code, you can create a new company code and make all the settings yourself.
+You define your company codes by specifying the following information:
+
+e Company code key
+
+You can select a four-character alpha-numeric key as the company code key. This key identifies the company code
+and must be entered when posting business transactions or creating company code-specific master data, for
+example.
+
+e Company code name
+e Address data
+
+The address data is necessary for correspondence and is printed on reports, such as the advance return for tax on
+sales/purchases.
+
+e Country currency
+
+
+
+Text from output2\page_7.png========================================================>:
+Your accounts must be managed in the national currency. This currency is also known as the local currency or the
+company code currency. Amounts that are posted in foreign currency are translated into local currency.
+
+Country key
+
+The country key specifies which country is to be seen as the home country; all other countries are interpreted as
+"abroad". This is significant for business and payment transactions because different forms are used for foreign
+payment transactions. This setting also enables you to use different address formatting for foreign correspondence.
+
+e Language key
+
+The system uses the language key to determine text automatically in the language of the relevant country. This is
+necessary when creating checks, for example
+
+& jrplementaton Gude Edt Goto Addtnalinormaton ties System Hed Lege,”
+° }«di@@e@iche 56108
+Display IMG
+
+@ EC pastngacsets sync [i]Release Notes Change Log. Where Else Used
+
+structure
+‘AP Field Service (Moble App)
+‘SAD Retal Execution (Mob App)
+Open Test Busness Sute for SAP Solitons
+OpenText Travel Recepts Management
+‘OpenText ECMLink for SAP Solitons
+etal Workforce Management
++ [83 @ Activate Business Functions
+> SAP NetWeaver
+~ Enterprise Structure:
++ [& @ Localize Sample Organizational Units
++ [& __ Defintion
+> [2 __ Financial Accounting
+* [8 © Defne company
+Define credt Control area
+[Edt Copy, Delete, Check Company Coda
+Define Eusiiess Area
+Define Functional Ares
+Maintain consoldation busness2rea
+Mantan FM Area
+Dafine Segment
+® Define Proft Center
+[& controling
++ [es Logistics - General
+» [Sales and Dstribution
++ [Bs Materials Management
+, Logstics Execution
++ [2 Pant Maintenance .
++ [é) Human Resources Management. -
+
+| | O MWe here to search
+[ Impementation Guide Edt Goto Additioral Information Utiities System Help Laeey
+
+RISE EF BEES oy)
+POPGOOVOH
+
+ay > vex (2) 800 ~ myecc | OVR
+
+Display IMG
+
+% Bi] 0 | pxstingBc sets sirac
+
+[Release Notes | ChangeLog Where Ele Used
+
+anal :
+Pe... Name of Activity
+mam Saws
+fete Comany Case Osta
+
+ES) Gal ES) Ea)
+
+Perform the activites in the specified sequence
+
+i)
+
+sag > Yor (1) 800 ¥ | myecc | OVR
+
+| 3 | O pe here to search
+
+
+
+Text from output2\page_8.png========================================================>:
+L) v|« eageis Aloe
+New Entries: Details of Added Entries
+
+9B Ob =
+
+Company code |]
+
+Company Name
+
+‘Additional data
+
+oy
+
+Country
+
+Currency Gj
+Language
+
+[sang D You (1) 800 ¥ | myecc | OVR
+
+| a | O Type here to search
+
+Update the required details and save.
+
+3. Define Personnel Area
+
+The personnel area is an organizational unit that represents a
+specific area of the enterprise and is organized according to aspects
+of personnel, time management and payroll. A personnel area is
+divided into several personnel subareas. the personnel subareas
+contain the business characteristics. To assign the business
+characteristics, you must have set up at least one personnel subarea
+for each of your personnel areas even if you do not use personnel
+subareas in your enterprise structure.
+
+Example
+
+Company Ford has three production plants in
+Germany:
+
+Hamburg,
+
+Cologne and Berlin.
+
+(© Table View Edt Goto Selection Utiities System Help 2opy
+
+
+
+Text from output2\page_9.png========================================================>:
+[© Implementation Guide Edit Goto Additional Information Utiities. System Help Geby
+
+oil 1«S1@@@\ohe en
+
+u 4
+Display IMG
+
+S$] 9 wxting BC Sets <yac Sets for Activity “Activated BC Sets for Activity LE) Release Notes Change Log Where Else Used
+
+‘Structure
+SAP Field Service (Mobile App) 5
+‘SAP Retail Execution (Mob App) +
+OpenText Business Suite for SAP Solutions
+OpenText Travel Receipts Management
+‘OpenText ECMLink for SAP Solutions
+Retail Workforce Management
++ [6 @ Actwate Business Functions
+4 ‘SAP NetWeaver
+~ 63 Enterprise Structure
++ [63 @ Locatze Sample Organizational Units
+> [63 Definition
+> fe Financial Accounting
+» [6 Controling
+» [63 Logistics - General
+» [6 Sales and Distrbution
+» [23 Materials Management
+» Logistics Execution
+» [2 Plant Maintenance
++ [&___ Human Resources Management
++ [& @ Personnel Areas
++ [€& @ Personnel subareas
++ [6&3 @ Employee Groups
++ [63 @ Employee Subgroups
+[es Assignment
+[63 __ Consistency Check
+» [63 Cross-Application Components
+» Auto-ID Infrastructure
+» Agentry SAP Framework Configuration .
+
+| | O ype here to search
+
+SAP A D | yo1 (1) 800 ¥ | myecc | OVR ry
+
+(© rolementaton Gude Ele Goto Adétoral formation tiles sistem Heb oy”
+
+Display IMG
+&] EB] OG | exsting Bc sets sync Sets for Ac & BCS [E]Release Notes Change Log Where Else Used.
+Activities aa
+Pe... Name of Activity isi}
+Copy, delete, check personnel area “
+
+Personnel areas
+
+5) Ga] ESTE)
+Perform the acthities in the specified sequence
+
+choose }(3¢] g
+
+ay > yor (1) 800 ~ myece | ovR o
+
+| as | O ‘ype here to search
+
+
+
+Text from output2\page_10.png========================================================>:
+© Table view Edt Goto Selection Utiities System Help eaapy
+\) *)}«B/@@eisa Anes
+
+New Entries: Details of Added Entries
+
+¥YRABEA
+
+Personnel area
+
+Personnel Areas
+House number/street
+PO Box
+
+Postal Code
+
+ty
+
+Country Key
+
+Region
+
+County code
+
+ty code
+
+ISAP A D Yo (1) 800 ¥ | myecc OVR os
+
+| a | O Jype here to search
+
+Update the personnel areas, enter and save
+
+4. Define Personnel sub areas:
+A personnel subarea is an organizational unit that represents a specific area of the company
+organized according to certain aspects of personnel, time management and payroll. The
+following business subtasks belong to the personnel subarea:
+
+¢ Defining of pay scale and wage type structure
+
+¢ Defining planned working hours
+
+¢ Defining appraisal criteria
+
+Example
+
+The Germany site of Company Ford is physically separated by a railroad line. This could
+mean that two different tax or employment offices are responsible for the respective areas. In
+this case, you would define a personnel area "Berlin" and two personnel subareas.
+
+10
+
+
+
+Text from output2\page_11.png========================================================>:
+[& © Activate Business Functions
+, SAP NetWeaver
+
++ [Enterprise Structure
++ [& @ Localize Sample Organizational Units
+> [& Definition
+> |B __ Fnancal Accounting
+» [8 — Controling
+» [3 Logistics - General
+» [83 Sales and Distribution
+» [3 Materials Management
+, Logistics Execution
+>» [Plant Maintenance
+~ |B) __ Human Resources Management
+
+® Personnel Areas
+® Personnel Subareas
+® Employee Groups
++ [é @ Employee subgroups
+
++ [& Assignment
+
+» [2 Consistency Check
+> [3 Cross-Application Components
+» Auto-ID Infrastructure.
+“ Agentry SAP Framework Configuration
+
+BP 39 E9
+
+| a | O Jype here to search
+
+[ Implementation Guide Edit Goto
+
+Pe... Name of Activity
+Copy, delete, check personnel subarea
+
+£
+(Create personnel subareag|
+
+a)
+
+Perform the activities in the specified sequence
+
+| a | O Jype here to search
+
+Additional Information
+
+[ Implementation Guide Edit Goto Additional Information Utiities. System Help
+iY) vl « ageicar Alea
+Display IMG
+S$] 9 wxisting Bc Sets “rac Se A BC Se A (Gi)Release Notes
+Structure
+, SAP Field Service (Mobile App)
+» SAP Retail Execution (Mob App)
+» OpenText Business Suite for SAP Solutions
+» OpenText Travel Receipts Management
+> OpenText ECMLink for SAP Solutions
+, Retail Workforce Management
+
+Change Log Where Ee Used
+
+D  Yo1 (1) 800 *
+
+myecc | OVR Cj
+
+Utiities System Help
+
+[E]Release Notes
+
+Change Log Where Ee Used
+
+D | Yo1 (1) 800 ¥ | myecc | OVR a
+
+11
+
+
+
+Text from output2\page_12.png========================================================>:
+Help
+
+System
+
+Utilties
+
+Additional Information
+
+Edit Goto
+
+[Implementation Guide
+
+(Gi)Release Notes Change Log Where Else Used
+
+Display IMG
+A Sp activated BC Sel
+
+Field Name
+Personnel area
+
+(v |[Further select cond. }[ Append }{f][3¢)
+
+a)
+
+Perform the activities in the specified sequence
+GW choose }[9¢)
+
+Ayenery Sar-rramewure eormgursuurr
+
+| a | O Jype here to search
+
+(& Table View Edit Goto Selection Utities System Help
+*}«8'@@eia PALA es
+
+iY)
+Change View "Personnel Area/Subarea": Overview
+®% New Entries ( FE ' ER RL EA
+
+Personnel area 1000||madagascar
+
+mii
+
+Pers. subarea text
+
+Personnel subarea
+(Hamburg i:
+
+Entry 1 of 1
+
+@ one entry chosen
+
+| a | O Jype here to search
+
+Update the personnel areas enter and save.
+
+12
+
+D Yo1 (1) 800 * | myecc OVR
+
+@ > yo1 (1) 800 ~ | myecc | OVR
+
+
+
+Text from output2\page_13.png========================================================>:
+5. Define Employee groups:
+
+The employee group allows you to divide your employees into groups and allows you to
+define their relationship to the enterprise. The following essential organizational functions
+can be carried out using the employee group:
+
+¢ generating default values when entering data; for example, for the payroll accounting
+area or for the basic pay of the employee
+
+e generating a selection criterion for evaluations
+* generating a unit for the authorization check
+Example
+
+You want to distinguish your employees between persons actively employed, pensioners and
+early retirees
+
+[© Table View Edit Goto Selection _Utiities System Help Laas,
+
+iY) *}«B'@@eia HaRHH AA esa
+
+Change View "Employee Group": Overview
+& Newenties (1) ES © GR HR EA
+
+Employee group Name of employee orp Bi
+
+gi (WAGERS) i
+
+s FULL TIME é
+
+* ‘Active employees
+
+5 salaried
+
+0 Salaried
+
+1 ‘Act Tech emp
+
+2 Contract employees
+
+3 PERMENT
+
+4 CONTRACT
+
+@ CONTRACT
+
+a WE Permanent
+
+B WF Contract
+
+c Permant chro
+
+D> contract chro
+
+z ‘Act Emp 6M
+
+F EXTERN FREELENCE
+
+ig ‘Act Emp RB =
+
+a Lohit Trainee A
+
+o>
+
+Postion... Entry 1 of 33,
+
+SApd D  Yo1 (1) 800 ¥ | myecc | OVR a
+
+| a | O Jype here to search
+
+13
+
+
+
+Text from output2\page_14.png========================================================>:
+(© Table View
+
+establi
+
+The fo
+
+| a | O Jype here to search
+
+Edit Goto Selection _Utlities System Help
+
+iv) *}«8ie@eisa aH AA ee
+New Entries: Overview of Added Entries
+
+> ER RE
+
+(Employee group Name of employee or]
+
+Entry 0 of 0
+
+[sang D> Yor (1) 800 ¥ | myecc | OR F5
+
+ENTER THE EMPLOYEE GROUP CODES AND DESCRIPTION, SAVE.
+6. Define Employee sub group:
+
+The employee subgroup represents a subdivision of the employee group. When you define
+employee subgroups, you are essentially begun to set up your personnel structure. Features
+are allocated to this in later steps. These steps are dealt with at the spot where they are
+
+shed in a business sense.
+
+llowing business subtasks are provided among other things:
+specification of processing in payroll accounting
+specification of validity of primary wage types
+specification of validity of work schedules
+
+specification of validity of pay scale groups
+
+specification of validity of time quota types
+
+14
+
+
+
+Text from output2\page_15.png========================================================>:
+[ Jmplementation Guide Edt Goto
+
+@ [Fa vi«
+
+Display IMG
+
+Existing BC Sets
+
+Additional Information
+
+aae
+
+Utitties
+
+he a
+
+System Help
+
+oa
+
+sy [E]Release Notes
+
+Change Log Where Eke Used
+
+, Retail Workforce Management =
++ [& @ Actvate Business Functions 2
+» SAP NetWeaver
+~ [Enterprise structure
+
++ [6 @ Locaize Sample Organizational Units
+Definition
+
+Financial Accounting
+
+Eee
+
+Eke)
+
+bag
+
+Controling
+
+Logistics - General
+Sales and Distribution
+‘Materials Management
+
+Logistics Execution
+Plant Maintenance
+
+(vive ~~ RvR
+
+Dp
+
+Human Resources Management
+[e3 @ Personnel Areas
+
+[és @® Personnel Subareas
+
+* [es @ Employee Groups
+
+Assignment
+Consistency Check
+
+Gross-Application Components
+
+Auto-ID Infrastructure
+
+‘Agentry SAP Framework Configuration
+
+SAP Portfolio and Project Management
+
+Financial Accounting
+
+Financial Accounting (New)
+
+Financial Supply Chain Management
+
+Financial Services Network Connector
+
+a | O ype here to search &
+
+ey
+ey
+
+© Implementation Guide Edit Goto Additional Information
+
+Fait employee subgroup environment
+Define employee subgroup
+
+Est ka) ES) E3)]
+
+Perform the activities in the specified sequence
+
+| a | O Type here to search
+
+tities
+
+System
+
+Help
+
+(E)Release Notes
+
+15
+
+Change Log Where Else Used.
+
+© Stop Share
+
+D  yo1 (1) 800 *
+
+myecc | OVR
+
+myecc | OVR
+
+
+
+Text from output2\page_16.png========================================================>:
+[© Table View Edit Goto Selection _Utiities System Help
+t) *}«B'e@eia ana sai eeg
+New Entries: Overview of Added Entries
+SREB AR
+_Emoloyee subgroup _|Name of EE subgroup El]
+t aa
+
+£
+
+Entry 0 of 0
+
+| a | O ype here to search
+
+Enter the sub group codes, enter and save.
+
+16
+
+myecc | OVR
+
+> | You (1) 800 *
+
+
+
+Text from output2\page_17.png========================================================>:
+ASSIGNEMENTS
+
+1.Assign Company code to company
+
+[© Implementation Guide Edit Goto Additional Information _Utiities._ System Help apy
+
+Val *l< ee@eichfh Alea
+
+Display IMG
+
+S$] 9 wxisting Bc Sets “rac Se A ed BC Sel A (Gi)Release Notes Change Log Where Else Used
+
+Structure
+, SAP Field Service (Mobile App) “
+» SAP Retail Execution (Mob App) ~
+, OpenText Business Suite for SAP Solutions
+, OpenText Travel Receipts Management
+> OpenText ECMLink for SAP Solutions
+, Retail Workforce Management
+
++ [2 @ Actwate Business Functions
+, SAP NetWeaver
++ [Enterprise Structure
+
++ [& @ Localize Sample Organizational Units
+
+>» [& Definition
+
+> [&3 Assignment
+
++ [&__ Financial Accounting
+
+. Assign company code to company
+Assign company code to credit control area
+‘Assign business area to consolidation business area
+@ Assign company code to financial management area
+®& Assign Profit Center to Company Code
+Controlling
+Logistics - General
+Sales and Distribution
+Materials Management
+Logistics Execution
+Plant Maintenance
+Human Resources Management
+
+» [& Consistency Check
+» [8 Cross-Application Components a
+» Auto-ID Infrastructure aa
+
+| a | O Jype here to search
+
+BP BP SP SP Sr
+
+@
+>
+o
+o
+7
+
+SPEED -
+
+SARA D) yo1 (1) 800 ¥ | myecc OVR =)
+
+(© Table ve Edt Goto Selection itfies System Heb ‘”
+
+) vl « e@eisa HaAHL AA esa
+
+Change View "Assign Company Code -> Company": Overview
+YO BRE
+
+ocd | Cty Company ii
+
+#100 MUMBAI I a 2
+
+#123 MUMBAI ~
+
+0000 BANGLORE
+
+0001 Waldorf
+
+0002 Kenya
+
+0005 Frankfurt 5
+
+000€ New York é
+
+0007 Frankfurt 7
+
+0008 New York
+
+0086 Hyderabad To00sé
+
+0100 Frankfurt
+
+0123 eranakulam 2EL
+
+01RA Mumbai RAJS12
+
+02RA Mumbail RAJS12
+
+03RA Mumbai RAJSS:
+
+0801 Hyderabad ROHIT
+
+100 Bangalore XYZ
+
+1000 Frankfurt
+
+1001 HYDERABAD =
+
+1002 Singapore 1002 =
+o> o>
+
+cro 2358
+
+| a | O Jype here to search
+
+[sang D> Yor (1) 800 ¥ | myecc | OR
+
+17
+
+
+
+Text from output2\page_18.png========================================================>:
+2. Assignment of personnel area to company code
+
+[© Implementation Guide Edt Goto Additional Information _Utitties System Help
+
+gil *\« aageichs AA ee
+Display IMG
+SS] 9 Existing BC Sets SBC Sets for Activity ced BC Sets for Actwity (i) Release Notes Change Log Where Else Used
+Structure
+» ‘SAP Field Service (Mobile App)
+» ‘SAP Retail Execution (Mob App)
+, OpenText Business Suite for SAP Solutions
+, ‘OpenText Travel Receipts Management
+» ‘OpenText ECMLink for SAP Solutions
+» Retall Workforce Management
+
+[2 @ Activate Business Functions
+‘SAP NetWeaver
+> [G3 __ Enterprise Structure
+
++ [63 @ Locale Sample Organizational Units
+
+» [e —Definitn
+> [és Assignment
+> [63 Financial Accounting
+» [6 Controling
+» [& Logistics - General
+» [& Sales and Distribution
+» [6 Materials Management
+, Logistics Execution
+» [& Plant Maintenance
+OR eaeopsesy eo
++ [8 © Assignment of Personnel Area to Company Code
++ [é3 @ Assign employee subgroup to employee group
+> Validity Period for Organizational Assignments
+» [& Consistency Check
+[3 Cross-Application Components
+
+Auto-ID Infrastructure
+
+‘Agentry SAP Framework Configuration
+‘SAP Portfolio and Project Management
+
+| = | O ype here to search
+
+[ Table View Edit Goto Selection
+
+utiities System Help
+
+Change View "Assignment of Personnel Area to Company Code": Overview
+
+Pers.area Personnel Area Text ‘Company Code
+1000 madagascar 2000
+1001 ‘SAP GERMANY SAPL
+1002 SAP JAPAN SAPL
+
+1801 Belgum 3010
+4977 PERSONNAL AREA WALMA... 1000
+acc HCL CAMBRIDGE 002
+HCL HCL LONDON eee
+200 Corporate - United Kingdom 2000
+220 Corporate - Italia 2200
+‘2200 Paris 2200
+l22a2 Ma sté 2222
+‘2600 Italy 2600
+2700 Schwee 2700
+2600 -e 2800
+70
+
+‘Company Name
+BestRun Germany
+SAP1- Indian Private Limi
+SAP1- Indian Private Limi
+SAP1- Indian Private Limi
+BestRun Germany
+BestRun Germany
+BestRun Germany
+BestRun Germany
+BestRun UK
+
+Euro Subsidiary - Belgum
+BestRun Germany
+
+wwe
+
+rajan company code
+BestRun UK
+
+BestRun France
+BestRun France
+
+Ma sté
+
+BestRun Italia
+
+BestRun Schweiz
+BestRun China
+
+Entry 1 of 246
+
+cry Grog A
+
+o1 ka
+o1
+
+o1
+
+as
+
+os
+06
+06
+06
+15
+
+18
+
+| Yo1 (1) 800 * | myecc OVR
+
+D Yo1 (1) 800 * | myecc OVR
+
+
+
+Text from output2\page_19.png========================================================>:
+3. Assignement of Employee group to Employee subgroup:
+[© Implementation Guide Edit Goto Additional Information Utilities. System Help ey
+
+iY) vl « ageicar Alea
+
+Display IMG
+
+S$] 9 wxisting Bc Sets “rac Se A ed BC Sel A (GiRelease Notes Change Log Where Else Used
+
+Structure
+» SAP Field Service (Mobile App) “
+» SAP Retail Execution (Mob App) ~
+, OpenText Business Suite for SAP Solutions
+, OpenText Travel Receipts Management
+> OpenText ECMLink for SAP Solutions
+, Retail Workforce Management
+
++ [& @ Activate Business Functions
+» SAP NetWeaver
++ [Enterprise Structure
++ [& @ Localize Sample Organizational Units
+>» [& Definition
+> [23 Assignment:
+» [8 Financial Accounting
+» [2 Controlling
+» [3 Logistics - General
+
+» [8 Sales and Distribution
+
+» [2 Materials Management
+
+» Logistics Execution
+
+» [6 Plant Maintenance
+
++ [23 Human Resources Management
+
+[é3 @ Assignment of Personnel Area to Cot
+
+» [& Consistency Check
+
+» [e3 Cross-Application Components
+
+id Auto-ID Infrastructure
+
+» Agentry SAP Framework Configuration -
+» ‘SAP Portfolio and Project Management aa
+
+[sang D> Yor (1) 800 ¥ | myecc | OR F5
+
+| | O Jype here to search
+
+© Table view Edt Goto Choose Permissity Utes System Help | > 4
+iv) vl« eageis a
+New Entries: Details of Added Entries
+
+&Y TF Svar ist
+
+FE group k
+EE subgroup (cq
+
+C..|Name of HR country gpg Allowed a
+(01 Germany =
+(02 Switzertand ~
+(03 Austria
+
+(04 Spain
+
+(05 Nethertands
+(06 France
+
+(07 Canada
+
+(08 Great Britain
+(09 Denmark
+10 USA
+
+11 Iretand
+
+12 Belgium
+
+13 Australa
+
+14 Malaysia
+
+15 Italy
+
+116 South Africa
+17 Venezuela
+18 Czech Republic =
+19 Portugal ~
+
+Ey D Yor (1) 800 * myecc | OR FS
+
+| a | O ype here to search
+
+Enter and save.
+
+19
+
+
+
+Text from output2\page_20.png========================================================>:
+ORGANISATIONAL MANAGEMENT
+
+1.Set up number assignment for all plan versions
+
+[© Implementation Guide Edit Goto Additional Information _Utiities._ System Help way
+
+iY) y\« ee@eichfh Alea
+
+Display IMG
+
+S$] 9 wxisting Bc Sets “rac Se A Sp A ed BC Sel A (Gi)Release Notes Change Log Where Else Used
+‘Structure
+
+> [63 Personnel Management
+
+‘SAP HCM Interview Assistant (Mobile App)
+
+‘SAP HCM Manager Insight (Mobile App)
+
+Integration Add-On for SAP ERP HCM and SuccessFactors BUX
+Global Settings in Personnel Management
+
+Personnel & Organization
+
+(23 __ Organizational Management
+
+es Basic Settings
+
+gcoces
+=?
+
+eo Mal
+‘B®
++ [& @ Maintain Number Ranges
+
++ [8 @ customer Enhancement (User Exit): Individual Number Assignment
+
+» [& __ Data Model Enhancement
++ [& @ Maintain Evaluation Paths
+
+[é3 @ Maintain Personnel Actions
+» [es Authorization Management
+» [8 Dialog Control
+
+63 ( Activate Inheritance of Account Assignment Features
++ [2 @ Activate Change Documents
+
+» [6 Transport
+
+» [63 Workbench Data Transfer
+
+» [& Integration
+
+» [2 __Infotype Settings
+
++ [63 @ Edit Organizational Plan
+
+» [2 Matrix Organization
+
+» [63 Dialog Control
+
+» [eS Data Extraction
+
+» [BS Hierarchy Framework
+
+[sang D> Yor (1) 800 ¥ | myecc | OR
+
+| a | O Jype here to search
+
+w Edit Goto Selection Utilities System Help | > 4
+
+t) *|}«B1ae@e O2nHo 1551 ees
+Change View "No. Assignment for All Plan Versions": Overview
+
+Documentation [& [FL Ef
+
+© Table w
+
+‘System Switch (from Table 17750)
+Group Sem. abbr. Value abbr. _ Description a
+UMRG COMP al Piiber assignment for all pian versions 2
+a? o>
+Entry 1 of 1
+(One entry chosen ayy @b_ vor (1) 800 ~ | myecc | OVR Fy
+
+a | O type here to search
+
+See that value abbreviation as 01
+
+20
+
+a,
+
+
+
+Text from output2\page_21.png========================================================>:
+ter and save.
+
+2. Maintain number ranges
+
+Lal *\<« eageichk Asien
+Display IMG
+&% &) 4 | wxsting ac sets sy c SF AC [E)Release Notes Change Log Where Else Used.
+‘Structure
+> [& Personnel Management -
+» ‘SAP HCM Interview Assistant (Mobile App) nh
+, SAP HCM Manager Insight (Mobile App)
+
+Integration Add-On for SAP ERP HCM and SuccessFactors Bux
+Global Settings in Personnel Management
+Personnel & Organization
+Organizational Management
+Basic Settings
+> [i ___Maintan Number Ranges
++ [& @ Set Up Number Assignment for All Plan Versions
++ [63 @ Maintain Number Ranges
++ [é3 @ customer Enhancement (User Ext): Individual Number Assignment
+» [8 Data Model Enhancement
++ [2 @ Maintain Evaluation Paths
++ [és @ Maintain Personnel Actions
+[23 Authorization Management
+» [8 Dialog Control
+[23 @ Activate Inheritance of Account Assignment Features
+@® Actwate Change Documents
+Transport
+Workbench Data Transfer
+Integration
+Infotype Settings
+@® Edit Organizational Pian
+‘Matric Organization
+Dialog Control
+Data Extraction
+Hierarchy Framework
+
+| a | O ype here to search
+
+gooc
+a? &
+
+Hoooec
+
+D | Yo (1) 800 ¥ | myecc | OVR a
+
+[© Table View Edit Goto Selection Uttiities System Help (uaao”
+
+iY) v\« e@eisa HaAHL AA esa
+New Entries: Overview of Added Entries
+> ER RE
+Subgroup _NRint.assonmt (NR ext.assonmt EF]
+L 4 =
+o> o>
+Entry 0 of 0
+
+Sapa D) yo1 (1) 800 ¥ | myecc OVR iy
+
+| a | O Jype here to search
+
+21
+
+
+
+Text from output2\page_22.png========================================================>:
+aintain object types
+
+[& Implementation Guide Edit + Goto Additional Information —_Utilties.
+oo! 1«<8/@@ei2h8
+Display IMG
+©] S] 9 | existing Bc Sets Sac se A 2p Activated BC Sel
+‘Structure
+
+(=) Personnel Management
+» ‘SAP HCM Interview Assistant (Mobile App)
+» ‘SAP HCM Manager Insight (Mobile App)
+» Integration Add-On for SAP ERP HCM and SuccessFactors BizX
+» [2 Global Settings in Personnel Management
+» Personnel & Organization
+* 163 Organizational Management:
+Basic Settings
+(63 -Maintain Number Ranges
+[63 __Data Model Enhancement
++ [& @ Maintain object Types
+» Infotypes in Decoupled Infotype Framework
+» [Bs _Infotype Maintenance
+» [2 __ Relationship Maintenance
++ [8 ® check Consistency of Installation
++ [é @ Maintain Evaluation Paths
+[é3 @ Maintain Personnel Actions
+» [83 Authorization Management
+6
+ie
+
+q
+“79
+
+Dialog Control
++ [3 @ Activate Inhertance of Account Assignment Features
++ [es @ Activate Change Documents
+
+[& Transport
+
+[63 Workbench Data Transfer
+
+[& Integration
+
+[& __ Infotype Settings
+
++ [63 @ Edit Organcational Plan
+
+[& Matric Organization
+» [3 Dialog Control
+
+[© Table View Edt Goto Selection _Utities_ System Help
+
+Change View "Object Types": Overview
+
+System Help
+
+Alea
+
+Ai [E]Release Notes
+
+Sanaa (0. Object type text (Org0j type |Icon name
+BS Object Types he
++ BBessental Re ON i aR
++ BBextemal Object Typ: Ey
+
+64 Nakisa HR Target
+
+'B Development Plan
+‘BA Appratsal BUS7O26
+'BG Criteria Group
+
+'BK Criterion
+
+‘BL Development Plan Group
+
+'BP Business Partner
+
+'BS Appraisal Model BUS7027
+‘BU Budget Structure Element
+
+icc
+ca
+
+| aa | O Ipe here to search
+
+PDOTYPE_A ICON_WORKPLACE
+ICON_ROLE
+‘ICON_ACTIVITY_GROUP
+‘ICON_EMPLOYEE
+
+‘ICON_BUDGET_STRUCTURE_ELEMENT
+ic Job PDOTYPE_C ICON_JOB
+
+Entry 3 of 212
+
+22
+
+Change Log Where Ee Used
+
+[sang D> Yor (1) 800 ¥ | myecc | OR
+
+© yor (1) 800 ¥ | myece | OVR F
+
+
+
+Text from output2\page_23.png========================================================>:
+3. Maintain Info type:
+[& Implementation Guide Edit Goto Additional Information Utilities. System Help apy
+
+9g | ‘\< ee@eichfh Alea
+
+Display IMG
+
+S$] 9 wxisting Bc Sets “rac Se A ated BC Sel A (Gi)Release Notes Change Log Where Else Used
+
+‘Structure
+> Integration Add-On for SAP ERP HCM and SuccessFactors BizX -
+» [2 Global Settings in Personnel Management. a
+» Personnel & Organization
+
+[& Organizational Management
++ [&___ Basic Settings
+
+Maintain Number Ranges
+
+Data Model Enhancement
+[& @ maintain Object Types
+
+Infotypes in Decoupled Infotype Framework
+
+[G3_Infotype Maintenance
++ [& @ Maintain Infotypes
++ [2 © maintain subtypes
++ [6 @ Maintain User-Defined Settings for Infotypes
++ [& © Maintain Country-Specfic Infotypes
+
+» [2 __ Relationship Maintenance
+
++ [8 @ check Consistency of Installation
++ [63 @ Maintain Evaluation Paths
+4 Maintain Personnel Actions
+
+‘Authorization Management
+
+Dialog Control
+
+[é3 Activate Inherttance of Account Assignment Features
++ [2 @ Activate Change Documents
+[& Transport
+[2 Workbench Data Transfer
+[& Integration
+[eS __ Infotype Settings
+
+[e3 @ Edt Organizational Plan -
+» [23 Matrix Organization =
+
+| | O Jype here to search
+
+3
+[es
+»
+
+5
+
+&€E
+
+EP EP SPSS?
+
+[sang D> Yor (1) 800 ¥ | myecc | OR F5
+
+[© Table View Edit Goto Selection Uttiities System Help (uaao”
+
+iY) *}«8'@@eia HaAHL AA esa
+Change View "Infotypes": Overview
+°% Newentres [9 ES 9 GR [A [A
+Dialog Structure Inftyp. Infotype Name ii)
+* Be Infotypes wae =
++ Bi Time constraint 4 =
++ Bainforyes per object __ SOON obiect 4
+1001 Relationships
+1002 Description
+1003 Department/ Staff
+1004 Character
+1005 Planned Compensation
+1006 Restrictions
+1007 Vacancy
+1008 ‘Acct. Assignment Features
+1009 Health Examinations
+1010 Authorities/Resources
+qo. Work Schedule
+1013 Employee Group/Subgroup
+old Obsolete
+101s Cost Planning
+1016 Standard Profies
+1017 PD Profiles
+ois Cost Distribution
+101s Quota planning -
+qo2i Prices Ma
+o> o>
+=] Postion... Entry 1 of 431
+>
+SARA D | Yo1 (1) 800 ¥ | myecc | OVR cy
+
+| a | O Jype here to search
+
+23
+
+
+
+Text from output2\page_24.png========================================================>:
+@ [spro
+
+[ Implementation Guide Edit Goto Additional Information _Utities System Help
+
+y\« ee@eichfh Alef
+
+Display IMG
+
+vee
+
+(++ D
+ekerrrc)
+
+Existing BC Sets Sy°BC Sets for A Sp Activated BC Sets for A
+
+[E]Release Notes
+
+“SAP HOM Interview Assistant (Mobile App)
+
+‘SAP HCM Manager Insight (Mobile App)
+Integration Add-On for SAP ERP HCM and SuccessFactors BUX
+Global Settings in Personnel Management
+Personnel & Organization
+Organizational Management
+Basic Settings
+Transport
+Workbench Data Transfer
+Integration
+[23 Integration with Personnel Administration
+‘Workflow for Organizational Change (WS01000014)
+Workflow Message About New Employees (WS01200136)
+‘Set up Integration with Personnel Administration
+Transfer Data from Personnel Administration
+Prepare Integration with Personnel Administration
+Transfer Data to Personnel Adminstration
+‘Check Integration Consistency
+BAdI: Retum Valdity Period of Persons to Organizational Management
+[&3 @ Set Up Integration with Cost Accounting
+[83 @ Set Up Integration for Cost Distribution
+
+PSOHHOOHO
+
+» Integration with SAP Business Partner
+» [G3 __ Infotype Settings
++ [8 ® Edt organizational Plan
+» [63 Matrix Organization
+» [es Dialog Control
+» led Data Extraction
+
+| a | O Jype here to search
+
+(© Table view Edit Goto Selection _Utiities System Help
+
+iY) *|}«Bi@@e PALA es
+Change View "HR Master Data Integration": Overview
+
+Documentation [i [RL Ei
+
+| a | O Jype here to search
+
+‘System Switch (from Table T7750)
+
+Group Sem. abbr. Value abbr. Description o
+PLOGI EveCc 02 Master data action: company code change 5
+Plosl EVORE =X Generate event with entry T77INT (action designat. ~
+PLOGI EVEGC 02 Master data action: employee subgroup change
+
+Plot EVENS =X Enhanced integration (x= on, Space= off)
+
+PLOGI EVPAC 02 Master data action for country reassignment
+
+oct [back = ntegration Switch: Organkationl Assignment
+e
+
+PLOGI PRELI 99999999 Integration: default postion
+
+PLOGI PRELU ° Integration: PA update online or batch
+PLOGI TEXTC Integration: transfer short text of job
+PLOGI TEXTO Integration: transfer short text of org.unit
+PLOGI TEXTS x Integration: transfer short text of position
+PPABT PABT ° ‘Switch: department
+
+PPINT BIRTL Default value for personnel subarea
+
+PPINT PERSA Default value for personnel area
+
+-] Position... Entry 1 of 14
+
+24
+
+et up integration with Personnel Administration
+
+Change Log Where Ee Used
+
+D  Yo1 (1) 800 *
+
+D  Yo1 (1) 800 *
+
+myecc | OVR
+
+myecc | OVR
+
+
+
+Text from output2\page_25.png========================================================>:
+ransfer data from Personnel administration:
+
+[© Implementation Guide Edit Goto Additional Information _Utities System Help
+
+of v}« ee@eichfh Alea
+Display IMG
+S$] 9 wxisting Bc Sets “rac Se A Sp A ed BC Sel A (Gi)Release Notes Change Log Where Else Used
+
+(2) Personnel Management
+‘SAP HCM Interview Assistant (Mobile App)
+‘SAP HCM Manager Insight (Mobile App)
+Integration Add-On for SAP ERP HCM and SuccessFactors BUX
+Global Settings in Personnel Management
+Personnel & Organization
+Organizational Management
+[3 Basic Settings
+> [2 Transport
+» [8 Workbench Data Transfer
+> [&__ integration
+2 Integration with Personnel Administration
+‘Workflow for Organizational Change (WS01000014)
+Workflow Message About New Employees (WS01200136)
+‘Set up Integration with Personnel Administration
+‘Transfer Data from Personnel Administration
+Prepare Integration with Personnel Administration
+Transfer Data to Personnel Adminstration
+‘Check Integration Consistency
+BAdI: Retum Valdity Period of Persons to Organizational Management
+et Up Integration with Cost Accounting
+jet Up Integration for Cost Distribution
+, Integration with SAP Business Partner
+» [2 __ Infotype Settings
++ [23 @ Edt Organizational Plan
+[23 Matrix Organization
+» [es Dialog Control
+> [2 Data Extraction
+
+| a | O Jype here to search
+
+(gcceoce
+=?
+
+“2
+
+POGOOOGS
+
+oe
+
+(© program Edit Goto System Help
+
+iY) ba e@eisa Alea
+Transfer Organizational Assignment (PA -> PD)
+
+JR Search hebs [> Sort order |
+
+Today ‘Current month ‘Current year
+Up to today From today
+® Other period
+Data Selection Period if p To
+Person selection period To
+Selection
+Employment status Bo
+
+{2
+Company Code Ea
+Personnel area eal
+Personnel subarea ty
+
+Payroll area
+
+Report-Specific Settings
+Target plan version 1
+(Transfer leavings only
+Structure status A
+Relationship percentage 100, 00)
+V)Create object(s)
+Create relationship(s)
+
+Cicreate holder relatshp. only
+
+| a | O Jype here to search
+
+25
+
+D  Yo1 (1) 800 *
+
+D  Yo1 (1) 800 *
+
+myecc | OVR
+
+myecc | OVR
+
+30 PM
+
+1715/2021
+
+
+
+Text from output2\page_26.png========================================================>:
+. Edit Organizational Plan
+[& Implementation Guide Edit Goto Additional Information Utilities. System Help py
+
+oil «<b ee@e cae anles
+Display IMG
+
+& $3] G | wxsting ac sets <8 sets for Actwit Sets for actvty [E) Release Notes. Change Log Where Else Used
+
+Structure
+> [e3 Personnel Management
+‘SAP HCM Interview Assistant (Mobile App)
+‘SAP HCM Manager Insight (Mobile App)
+Integration Add-On for SAP ERP HCM and SuccessFactors BUX
+Global Settings in Personnel Management
+Personnel & Organization
+Organizational Management
+Basic Settings
+Transport
+‘Workbench Data Transfer
+Integration
+Infotype Settings
+@® Edie Organizational Pian
+Matrix Organization
+Dialog Control
+Data Extraction
+Hierarchy Framework
+Personnel Development
+Personnel Adminstration
+HR Administrative Services
+Recruitment
+Benefits
+‘Compensation Management
+Personnel Cost Planning and Simulation
+Enterprise Compensation Management
+‘Management of Global Employees
+[63 Company Pension Scheme -
+{& Pension Fund -
+
+| a | O Jype here to search
+
+gooces
+ee ie)
+
+SPB) BPR) BP PPP DPD
+
+Bret
+
+[sang D> Yor (1) 800 ¥ | myecc | OR
+
+[Organization and Staffing (Workflow) Edit Goto Settings System Help | > 4
+
+Organization and Staffing (Workflow) Change
+
+oy
+ff) 15.01.2021 +3 Months
+A
+peared + tional Management
+to hd
+object ‘screen for maintaining your enterprise's organizational plan. You can create your Organizational structure and Staff assignments for each organizational
+is divided into four areas:
+‘Task group
+» &, Rule * Inthe Search area on the left of the screen, you can use the search functions to find individual organizational objects. The results of this search are displayed in the
++ SF object history Selection area.
+‘© These organizational objects can be transferred from here to the central area of the screen, the Overview area, where they are displayed within their organizational
+environment.
+¢ The bottom area of the screen is the Detail area. Information about individual objects is displayed and can be edited in the detail area_
+Getting started:
+‘* Using Goto -> Change View, choose the view with which you want to work.
+Ifyou have already created your enterprise's organizational plan, use one of the search functions to select an organizational object, and then transfer the object to the
+overview area by double-clicking.
+Ifyou have not already created your enterprise's organizational plan, switch to create mode. In the SAP menu, choose Human Resources -> Organizational
+Management -> Organizational Plan -> Organization and Staff Assignment -> Create. Beginning with a root organizational unit, create an organizational structure and
+staff assignment plans.
+For more detailed documentation, choose: uv
+
+[sang D> Yor (1) 800 ¥ | myecc | OR
+
+| a | O Jype here to search
+
+26
+
+
+
+Text from output2\page_27.png========================================================>:
+8.Create General Structures:
+
+[© Menu Edit Favorites Extras System Help
+
+iY) y\« @e sh HHHH/ 5H
+
+SAP Easy Access
+Ce © | daothermenu 5 Ya A |v & | Cacreaterole | 2A se
+
+Y Be SAP Menu
+» BS Financial Services Network Connector
+> Bloffice
+» [a Cross-Application Components
+» BB Logistics
+» [Ba Accounting
+~ GS Human Resources
++ © PPMDT - Manager's Desktop
+D5 Personnel Management.
+DB Time Management
+Payroll
+B sap Learning Solution
+BAP Leaming Solution, option for the extended learning community
+@ Training and Event Management
+B Training Needs Management
+& Organizational Management
+Organizational Pian
+» Bi organization and Staffing
+ B General structures
+
+“¢
++ © PPss - Display
+
+> Bi matrix
+> Ba Expert Mode
+» [Bi Info system
+BD Tools
+
+> Disettings
+
+» [Bi stzatticher Sektor fiir Saudi Arabien
+» DB Travel Management
+
+| a | O Jype here to search
+
+9. Change structure
+
+© menu Edit Favorites Extras System Help
+
+eg
+
+i) v\« Se sh HAHAH 55108
+
+SAP Easy Access
+[a © |) Kothermenu | % va A |v & | Cacreaterole | 2
+
+B SAP Menu
+> Bi Financial Services Network Connector
+> Bloffice
+» .Cross-Appiication Components
+> BB Logistics
+» BB Accounting
+> BS Human Resources
+PPMDT - Manager's Desktop
+» (Personnel Management
+Time Management
+> BePayroll
+> [BB SAP Learning Solution
+» [SAP Learning Solution, option for the extended learning community
+» (BB Training and Event Management
+» [BB Training Needs Management
+~ BS Organizational Management
+> BS Organizational Plan
+» BB organization and Staffing
+> Bp General structures
+
++ © PPSS - Display
+> Bmax
+> Ba Boer Mode
+> Bi Info system
+
+Tools
+> Disettings
+» [Bi Staaticher Sektor fur Saudi Arabien
+» DB Travel Management
+
+| a | O ype here to search
+
+8. Display Structure
+
+27
+
+SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+IDES ERP
+
+D Yo1 (1) 800 * | myecc OVR
+
+SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+IDES ERP
+
+You (1) 800 ~ | myecc OVR a
+
+
+
+Text from output2\page_28.png========================================================>:
+[ Menu Edit Favorites Extras System Help
+
+SAP Easy Access
+Ta © | & | deothermenu | %5 Ye A | vy & | Eeceate role
+
+Y Be SAP Menu
+» BS Financial Services Network Connector
+> Bioffce
+» [a Cross-Application Components
+> Ba Logistics
+> BB accounting
+~ GS Human Resources
++ © PPMDT - Manager's Desktop
+» Di Personnel Management.
+@ Time Management
+payroll
+B sap Learning Solution
+BAP Leaming Solution, option for the extended learning community
+@ Training and Event Management
+B Training Needs Management
+& Organizational Management
+Organizational Pian
+» Bi organization and Staffing
+ B General structures
++ © PPSC - Create
++ © PPSM - Change
+> Bi matrx
+> Ba Expert Mode
+» [Bi Info system
+> Bi Too
+> Disettings
+» (Ba Staatlicher Sektor fur Saudi Arabien
+» 0 Travel Management
+
+| a | O Jype here to search
+
+iY) y\« @e ish HAHAH
+
+ba]
+
+28
+
+SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+IDES ERP
+
+D  Yo1 (1) 800 *
+
+myecc | OVR
+
+
+
+Text from output2\page_29.png========================================================>:
+SIMPLE MAINTENANCE
+
+In SAP HCM Structure can be created in 2 ways:
+
+1. Expert Mode
+2. Simple maintenance
+
+Expert mode is all about the organizational structure creation with the unique numbers
+
+Simple Maintenance is all about organizational structure in a tree format
+
+We work with object types
+
+1. O- Organizational units
+2. S— Position
+
+3. C—Job
+
+4. A—Work center
+
+5. X—Cost center
+
+6. P— Person
+
+7. US- User
+
+We will learn how to configure Structure and show relationships. There are standard
+relationships
+
+For ex: A003, B003, BO07.....
+Further Organizational units are categorized into 4 sub units
+
+a) Root of the company:
+Name of the organization
+b) Parent location:
+Main branch of the organization (Headquarter)
+c) Geographical location
+Locations or branches of the organization
+d) Sub- Geographical location
+Departments in the Geographical location
+
+29
+
+
+
+Text from output2\page_30.png========================================================>:
+1. Create Structure:
+
+[© Menu Edit Favorites Extras System Help
+Vy vl « @e sh HHHH/ 5H
+SAP Easy Access
+(a © & geothermenu | % te A v | Cacreateroe A se
+Ba coss-Application Components
+BD Logistics
+> accounting
+
+~ BS Human Resources
++ © PPMDT - Manager's Desktop
+» [Bi Personnel Management
+Time Management
+
+DB payroll
+
+Bsap Learning Solution
+
+1 SAP Leaming Solution, option for the extended learning community
+Training and Event Management
+
+BD Training Needs Management
+
+& Organizational Management
+
+Organizational Pian
+
+* Be Boert Mode
++ © O10 - Organizational Unit
+
+D PPO1 - General
+ B Simple Maintenance
+
++ © PPOS_OLD - Display
+BB info system
+> Bi Too
+Settings
+Di Staatlicher Sektor fur Saudi Arabien
+
+| a | O Jype here to search
+
+[© organizational pan Edt Goto Settings System Help
+) vl « aae Aa
+Create Organizational Unit
+o
+Organizational unit Abbr. I i
+Name
+Vaidity period 17.01.2021] To [31.12.9885)
+View
+® Overal view
+
+Human Resources view
+
+@ Plan version Current plan was set
+
+| a | O Jype here to search
+
+eg
+
+SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+IDES ERP
+
+D  Yo1 (1) 800 *
+
+eg
+
+D  Yo1 (1) 800 *
+
+Fill up the required details like organistational unit and name . Enter and save.
+
+30
+
+myecc | OVR
+
+myecc | OVR
+
+
+
+Text from output2\page_31.png========================================================>:
+[© organizational pan Edt Goto View
+
+oo, «gle
+
+| Staff Assignments / Change
+°% (BL) Postions... Assign holder.
+
+(e]2)!Gs\bdbs)' Ia]
+Find by
+> Co Organizational unit
+
++ Gil Free search
+
++ Gil Free search
+
++ Gl search Term
+
++ Gh structure Search
+
++ GB Object History
+
+Settings
+
+SHR HHH AA Oa
+
+@e
+
+System Help
+
+3 4) Task profie °=) (5) Da
+
+Plan Version 01 Current plan
+
+17.01.2021 - 31.12.9999
+
+IL
+
+So
+
+10 50011985 Is line supervisor of  PArent location - ford
+
+50011986 Is line supervisor of location 1 - ford
+
+[~ 0 soolise@ Is line supervisor of Hr dept - location 1
+
+[-© s 0012074 Incorporates Hr Manager
+Us RCFRECRUIT Holder Recruiter
+Ss 50012084 — Incorporates BR executive
+
+‘G1 0 50011989 Is line supervisor of Finance dept - loaction 1
+
+[-@ s so01208¢€ Incorporates ‘FI manager
+(US LINEMGRNA Holder = Line Manager
+L's soo1z0e7 [ff tncorporates FT Executive
+"US LINEMGRNA Holder sd Line Manager
+—S o 50011987 Is line supervisor of location 2 - ford
+@ o 50011990 Is line supervisor of Hr dept - location 2
+[Ss 50012089 Incorporates ‘Er Manager
+———s 50012091 Incorporates ‘BR executive
+o>
+| a | O Jype here to search g
+.
+[© organizational pan Edt Goto View Settings System Help
+iY) vl« ee Sh OHHH 55108
+
+| Staff Assignments / Change
+°% (E) [)Posttions... Assign holder...
+
+(e]2)!Gs\bdbs)' Ia]
+Find by
+> Co Organizational unit
+
++ Gil Free search
+
++ Gil Free search
+
++ Gl search Term
+
++ Gh structure Search
+
++ GB Object History
+
+| a | O Jype here to search
+
+Se #2) DF) Task profie %2]) [] (a
+
+Plan Version 01 Current plan
+
+Structural Graphics (Shift+F8) > gs99
+
+myecc | OVR
+
+© Stop Share
+
+IL
+
+10 50011985 Is line supervisor of  PArent location - ford
+
+So
+
+50011986 Is line supervisor of location 1 - ford
+
+[~ 0 soolise@ Is line supervisor of Hr dept - location 1
+
+[-@ s 50012074 Incorporates Hr Manager
+
+“Ss 50012084 Incorporates BR executive
+
+|S $s 001208 Incorporates ‘FI manager
+
+©
+
+‘—@ [5 50012087 [ff Incorporates FI Executive
+
+‘— 0 50011987 Is line supervisor of location 2 - ford
+0 50011990 Is line supervisor of Hr dept ~ location 2
+[——S 50012089 Incorporates Hr Manager
+‘—s 50012091 Incorporates AR executive
+
+31
+
+Us RCFRECRUIT Holder Recruiter
+
+‘G1 0 50011989 Is line supervisor of Finance dept - loaction 1
+
+myecc | OVR
+
+© Stop Share
+
+
+
+Text from output2\page_32.png========================================================>:
+2. Change structure
+
+[© Menu Edit Favorites Extras System Help
+() v\« Ge sAR HHHH' 55\08
+SAP Easy Access
+
+C3 © | & | other menu
+
+¥e¥e A v &  Cacraterole = 2A se
+
+» [Ba Cross-Application Components
+» BB Logistics
+> BB Accounting
+~ BS Human Resources
++ © PPMDT - Manager's Desktop
+» [Bi Personnel Management
+» Ga Time Management
+> Bepayrol
+» [SAP Learning Solution
+» BB SAP Leaming Solution, option for the extended leaming community
+Training and Event Management
+» [BB Training Needs Management
+* B Organizational Management
+> (a organizational Plan
+* Be Boert Mode
+© PO10 - Organizational Unit
++ © P003 - Job
++ © P013 - Position
++ © Poot - Work center
++ © PFCT - Task Catalog
++ © PPO! - General
+> Bp Simple Maintenance
++ © PPOC_OLD - Create
++ © PPOS_OLD - Display
+BB info system
+> Bi Too
+> Bi Settings
+Di Staatlicher Sektor fur Saudi Arabien
+
+| a | O Jype here to search
+
+3. Display structure
+
+[ Menu Edit Favorites Extras System Help
+
+Qo yl« Ge sh HHH) 55/08
+SAP Easy Access
+
+[a | & | duothermeny | 3 Ya M |v & | Cacreaterole | 2 Assian users
+> [i ross-Appication Components
+> BB Logistics
+» BB Accounting
+> GS Human Resources
+© PPMDT - Manager's Desktop
+» personnel Management
+> [Time Management.
+payroll
+» [Ba SAP Learning Solution
+> [ESAP Learning Solution, option for the extended leaming community
+> [Ba Training and Event Management
+» [Training Needs Management
+* B Organizational Management.
+» Bi organizational Pian
+~ BS Expert Mode
++ © PO10 - Organizational Unit
++ © P003 - Job
++ © P13 - Postion
++ © POO! - Work center
++ © PFCT - Task Catalog
++ © Ppot - General
+B Simple Maintenance
+© PPOC_OLD - Create
++ © PPOM,
+
+iinfo system
+
+Too
+
+Di settings
+
+Ba Staatiicher Sektor fur Saudi Arabien
+
+| aa | O Jype here to search
+
+32
+
+SAP DEMO SYSTEMS
+THE BEST-RUN DEMOS RUN IDES
+
+IDES ERP
+
+[sApg D> Yor (1) 800 ¥ | myecc | OR
+
+SAP DEMO SYSTEMS
+‘THE BEST-RUN DEMOS RUN IDES
+
+IDES ERP
+
+| yo1 (1) 800 * | myecc | OVR a
+
+
+
