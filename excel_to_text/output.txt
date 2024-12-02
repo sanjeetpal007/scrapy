@@ -1,0 +1,19 @@
+ String List  Match Count       Image
+string_list1            2 page_20.png
+string_list1            2 page_21.png
+string_list1            1 page_22.png
+string_list1            1 page_23.png
+string_list1            1 page_24.png
+string_list2            1 page_24.png
+string_list1            1 page_25.png
+string_list2            1 page_25.png
+string_list1            1 page_26.png
+string_list2            1 page_26.png
+string_list1            1 page_27.png
+string_list2            1 page_29.png
+string_list1            1 page_30.png
+string_list1            1 page_31.png
+string_list1            1 page_32.png
+string_list1            1  page_4.png
+string_list2            1  page_6.png
+string_list2            2    text.jpg
